@@ -1,0 +1,13 @@
+cd /home/shiyanlou
+git clone https://github.com/srx0401/Louplus.git
+cd Louplus
+wget https://labfile.oss.aliyuncs.com/courses/1330/linux.png
+wget https://labfile.oss.aliyuncs.com/courses/1330/python1.png
+wget https://labfile.oss.aliyuncs.com/courses/1330/python2.png
+wget https://labfile.oss.aliyuncs.com/courses/1330/git.png
+
+git add -all
+git commit -m 'study record'
+git push origin master
+
+
